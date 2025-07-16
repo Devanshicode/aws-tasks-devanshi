@@ -8,6 +8,7 @@
 - **Encryption**: SSE-S3 (Default)
 - **Block Public Access**: Disabled
 - **object url**: https://devanshi-s3-demo-bucket.s3.eu-north-1.amazonaws.com/Unit-1.pptx
+- **file uploaded**: "C:\Users\Admin\Downloads\Unit-1.pptx"
 
 ## 📂 Files Uploaded
 - `unit1.pptx'
